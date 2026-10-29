@@ -1,0 +1,10 @@
+id: YDP114H003-V2
+category: displays
+size: "1.14"
+panel: tft
+resolution: 135x240
+interface: [spi]
+driver: ST7789V
+touch: null
+outline: 17.6 x 31.0 x 1.6 mm
+active_area: 14.864 x 24.912 mm
